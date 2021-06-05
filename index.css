@@ -1,0 +1,39 @@
+
+p {
+    font-size: 1.1rem;
+    word-spacing: 1px;
+    line-height: 1.4;
+}
+
+
+.widget {
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+.widget a {
+    color: #dc6520;
+    text-decoration: none;
+}
+
+.widget a:hover {
+    color: #1a1a1a;
+}
+
+.widget .widget-title {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    line-height: 1.4;
+    letter-spacing: 0.05rem;
+    font-size: 1.1rem;
+    word-spacing: 0.1rem;
+}
+
+.widget li {
+    margin-bottom: 0.25rem;
+}
+
+.custom {
+    background-color: #150448;
+}
+
